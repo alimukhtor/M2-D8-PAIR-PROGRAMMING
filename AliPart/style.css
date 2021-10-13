@@ -20,7 +20,11 @@
 }
 .text{
   width: 287px;
-height: 47px;
-text-align: center;
+  height: 47px;
+  text-align: center;
 /* border-color: grey;  */
+}
+.task4-header{
+  text-align: center;
+  margin-top: 20px;
 }
